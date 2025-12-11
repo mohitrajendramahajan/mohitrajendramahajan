@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/mohitrajendramahajan">
-    <img src="https://avatars.githubusercontent.com/u/mohitrajendramahajan" width="150" alt="Mohit Mahajan Avatar">
+    <img src="https://github.com/mohitrajendramahajan/mohitrajendramahajan/blob/main/WhatsApp%20Image%202025-11-30%20at%2001.54.04_7028d577.jpg" width="150" alt="Mohit Mahajan Avatar">
   </a>
   
   # Hi there 👋, I'm Mohit Mahajan
