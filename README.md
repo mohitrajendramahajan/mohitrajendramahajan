@@ -59,17 +59,6 @@ Showcasing your experience in diverse ML applications:
 
 ---
 
-### 📊 GitHub Stats (Dynamic Section)
-
-Replace `mohitrajendramahajan` with your actual GitHub username (`mohitrajendramahajan`) to display your live stats.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitrajendramahajan&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Mohit Mahajan GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrajendramahajan&layout=compact&theme=buefy&hide_border=true" alt="Mohit Mahajan Top Languages"/>
-</div>
-
----
-
 ### 📫 Get In Touch
 
 | Contact | Detail |
@@ -82,15 +71,4 @@ Replace `mohitrajendramahajan` with your actual GitHub username (`mohitrajendram
 <div align="center">
   </div>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
