@@ -1,8 +1,9 @@
-
-
 <div align="center">
-    
-  # Hi there 👋, I'm Mohit Mahajan
+ 
+  
+  # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohit Mahajan
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=700&size=24&duration=3000&color=007ACC&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;ETL+Specialist;Student+at+Vistula+University" alt="Typing Effect"/>
   
   <p align="center">
     "Aspiring Data Scientist with strong skills in Python, ML, and data analytics. <br>
@@ -63,12 +64,11 @@ Showcasing your experience in diverse ML applications:
 
 | Contact | Detail |
 | :--- | :--- |
-| **Email** | `mrajend1@stu.vistula.edu.pl` `mohitmahajan5800@gmail.com` |
+| **Email** | `mrajend1@stu.vistula.edu.pl`, `mohitmahajan5800@gmail.com` |
 | **Location** | Warsaw, Poland 🇵🇱 |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE) |
 | **Portfolio/Website** | [Your Personal Website Link (if applicable)] |
 
 <div align="center">
-  </div>
-
-
+  <img src="https://komarev.com/ghpvc/?username=mohitrajendramahajan&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Mohit Mahajan Profile Views" />
+</div>
