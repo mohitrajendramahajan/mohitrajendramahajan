@@ -66,7 +66,7 @@ Showcasing your experience in diverse ML applications:
 | :--- | :--- |
 | **Email** | `mrajend1@stu.vistula.edu.pl`, `mohitmahajan5800@gmail.com` |
 | **Location** | Warsaw, Poland 🇵🇱 |
-| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE) |
+| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/mohit-mahajan-751832397/) |
 | **Portfolio/Website** | [Your Personal Website Link (if applicable)] |
 
 <div align="center">
