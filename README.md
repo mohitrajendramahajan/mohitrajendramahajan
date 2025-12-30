@@ -33,30 +33,9 @@ Highlighting key skills from your resume:
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
 
----
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📚 Featured Projects
-
-Showcasing your experience in diverse ML applications:
-
-#### 1. Used Car Price Prediction Model (Audi Company)
-* **Goal:** Evaluate the price for a used car based on features like fuel type, kms run, and model.
-* **Models Used:** Random Forest Regressor, Linear Regression, Extra Trees Regressor.
-* [**Repository Link**](https://github.com/mohitrajendramahajan/USED-CAR-PRICE-PREDICTION-PROJECT)
-
-#### 2. Parkinson's Disease Prediction Model
-* **Goal:** Predict whether a patient has Parkinson's disease based on 24 distinctive medical observations.
-* **Models Used:** XGBClassifier, Logistic Regression Model, Random Forest Classifier.
-* [**Repository Link**](https://github.com/mohitrajendramahajan/PARKINSON-DISEASE-DETECTION)
 
 ---
 
@@ -67,8 +46,29 @@ Showcasing your experience in diverse ML applications:
 | **Email** | `mrajend1@stu.vistula.edu.pl`, `mohitmahajan5800@gmail.com` |
 | **Location** | Warsaw, Poland 🇵🇱 |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/mohit-mahajan-751832397/) |
-| **Portfolio/Website** | [Your Personal Website Link (if applicable)] |
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohit_rajendra_mahajan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-mahajan-751832397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitmahajan5800@gmail.com) 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitrajendramahajan&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Mohit Mahajan Profile Views" />
 </div>
+
+# 💫 About Me:
+"Aspiring Data Scientist with strong skills in Python, ML, and data analytics.<br>Passionate about solving real-world problems through data-driven insights."<br> <br><br>
+
+
+## 🌐 Socials:
+
+
+# 💻 Tech Stack:
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohitrajendramahajan&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohitrajendramahajan&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
