@@ -13,6 +13,12 @@
   ---
 </div>
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohitrajendramahajan&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
 ### 🔭 I'm Currently Working On
 
 * Mastering **Applied Data Analysis and AI** at Vistula University, Warsaw.
@@ -53,22 +59,3 @@ Highlighting key skills from your resume:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitrajendramahajan&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Mohit Mahajan Profile Views" />
 </div>
-
-# 💫 About Me:
-"Aspiring Data Scientist with strong skills in Python, ML, and data analytics.<br>Passionate about solving real-world problems through data-driven insights."<br> <br><br>
-
-
-## 🌐 Socials:
-
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohitrajendramahajan&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrajendramahajan&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohitrajendramahajan&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
