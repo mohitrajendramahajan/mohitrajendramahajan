@@ -54,7 +54,7 @@ Highlighting key skills from your resume:
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/mohit-mahajan-751832397/) |
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohit_rajendra_mahajan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-mahajan-751832397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitmahajan5800@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohit_rajendra_mahajan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-mahajan-751832397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitmahajan5800@gmail.com) [![Coursera](https://img.shields.io/badge/Coursera-%230077B5.svg?logo=Coursera&logoColor=white)](https://www.coursera.org/user/22d8cbb44b1006a48b99b6030844fa4f)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitrajendramahajan&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Mohit Mahajan Profile Views" />
