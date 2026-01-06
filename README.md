@@ -27,7 +27,6 @@
 
 ### 🌱 Technical Toolbox
 
-Highlighting key skills from your resume:
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -42,6 +41,9 @@ Highlighting key skills from your resume:
 ### 🏆 Certifications
 
 [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Introduction%20to%20Data%20Analytics-blue?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PDH4M7N1GAPG)
+[![Coursera](https://img.shields.io/badge/Coursera-GOOGLE%20Analyzing%20Billing%20Data%20with%20BigQuery-blue?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/OOKE8L8DNYUE)
+
+
 ---
 
 <br>
