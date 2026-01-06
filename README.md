@@ -41,14 +41,7 @@ Highlighting key skills from your resume:
 
 ### 🏆 Certifications
 
-[![LinkedIn Certificate](https://img.shields.io/badge/LinkedIn-Certification_Name-blue?logo=linkedin&logoColor=white)](YOUR_CERTIFICATE_LINK_HERE)
-[![Coursera](https://img.shields.io/badge/Coursera-Introduction%20to%20Data%20Analytics-blue?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PDH4M7N1GAPG)
-
-* **[Full Course Title]** – Issued by [Organization Name] • [Month, Year]
-    * [Verify Credential](YOUR_LINK_HERE)
-* **[Introduction to Data Analytics]** – Issued by IBM • [JANUARY, 2026]
-    * [Verify Credential](https://www.coursera.org/account/accomplishments/verify/PDH4M7N1GAPG)
-
+[![Coursera](https://img.shields.io/badge/Coursera-IBM%20Introduction%20to%20Data%20Analytics-blue?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PDH4M7N1GAPG)
 ---
 
 <br>
